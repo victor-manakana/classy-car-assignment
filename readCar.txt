@@ -1,0 +1,10 @@
+You're hired by a car dealership company create a simple Java application for them that
+takes into account the following Classes with their attributes:
+
+Make (Brand Name eg BMW, Country of Origin eg German)
+Model (Model Name eg E46 320i, Year of Manufacture eg 2008)
+ModelDetails (DriveType eg left or right, Doors eg 4, Color, DriveTrain eg AWD 4WD 2WD, etc)
+
+The above should be classes i.e Make, Model, ModelDetails.
+Then create an extra class called Car which takes into account objects of the above classes as its attributes. 
+Create a main class that will be used to create objects of the car class and out their details.
